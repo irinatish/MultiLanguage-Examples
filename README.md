@@ -1,7 +1,25 @@
 # JPMC Sonatype v Snyk Data Comparison
 
 ## False Positives
-EXAMPLES
+Java:
+-  
 
-## False Negatives
-EXAMPLES
+Python:
+- 
+
+JavaScript:
+- 
+
+## False Negatives (CVE)
+Java:
+- asciidoctor
+
+Python:
+- rigor 
+
+JavaScript:
+- 
+
+
+## FOLLOWUP:
+- 

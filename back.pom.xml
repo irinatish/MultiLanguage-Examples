@@ -8,14 +8,14 @@
     <version>3.3.5</version>
   </parent>
 
-  <groupId>org.owasp.webgoat</groupId>
+  <!-- <groupId>org.owasp.webgoat</groupId>
   <artifactId>webgoat</artifactId>
   <version>2024.2-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>jar</packaging> -->
 
-  <name>WebGoat</name>
-  <description>WebGoat, a deliberately insecure Web Application</description>
-  <url>https://github.com/WebGoat/WebGoat</url>
+  <name>JPMC-Examples</name>
+  <description>Examples</description>
+  <url>https://github.com/acpcreation/JPMC-Examples</url>
   <inceptionYear>2006</inceptionYear>
   <organization>
     <name>OWASP</name>
@@ -28,37 +28,6 @@
     </license>
   </licenses>
 
-  <developers>
-    <developer>
-      <id>nbaars</id>
-      <name>Nanne Baars</name>
-      <email>nanne.baars@owasp.org</email>
-      <organizationUrl>https://github.com/nbaars</organizationUrl>
-      <timezone>Europe/Amsterdam</timezone>
-    </developer>
-    <developer>
-      <id>zubcevic</id>
-      <name>René Zubcevic</name>
-      <email>rene.zubcevic@owasp.org</email>
-    </developer>
-    <developer>
-      <id>aolle</id>
-      <name>Àngel Ollé Blázquez</name>
-      <email>angel@olleb.com</email>
-    </developer>
-  </developers>
-
-  <scm>
-    <connection>scm:git:git@github.com:WebGoat/WebGoat.git</connection>
-    <developerConnection>scm:git:git@github.com:WebGoat/WebGoat.git</developerConnection>
-    <tag>HEAD</tag>
-    <url>https://github.com/WebGoat/WebGoat</url>
-  </scm>
-
-  <issueManagement>
-    <system>Github Issues</system>
-    <url>https://github.com/WebGoat/WebGoat/issues</url>
-  </issueManagement>
 
   <properties>
     <!-- Shared properties with plugins and version numbers across submodules-->
