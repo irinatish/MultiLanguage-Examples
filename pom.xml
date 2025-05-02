@@ -7,10 +7,10 @@
         <version>2.5.10</version>
     </parent>
 
-    <artifactId>jpmc-examples</artifactId>
+    <artifactId>examples</artifactId>
     <packaging>war</packaging>
     <version>1.0.0</version>
-    <name>JPMC Examples</name>
+    <name>Examples</name>
     <description>Test Cases</description>
 
     <dependencies>
@@ -78,7 +78,7 @@
     </dependencies>
 
     <build>
-        <finalName>jpmc-examples</finalName>
+        <finalName>examples</finalName>
         <plugins>
             <plugin>
                 <groupId>org.mortbay.jetty</groupId>
