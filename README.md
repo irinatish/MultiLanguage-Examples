@@ -1,4 +1,4 @@
-# JPMC Sonatype v Snyk Data Comparison
+# Data Comparison
 
 ## False Positives
 Java:
